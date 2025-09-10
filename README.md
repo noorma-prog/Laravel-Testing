@@ -6,6 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+# Laravel Testing Project
+
+[![Laravel Tests](https://github.com/noorma-prog/Laravel-Testing/actions/workflows/laravel-tests.yml/badge.svg)](https://github.com/noorma-prog/Laravel-Testing/actions/workflows/laravel-tests.yml)
+
+Project ini digunakan untuk belajar unit testing dan GitHub Actions di Laravel.
 
 ## About Laravel
 
